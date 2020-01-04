@@ -1,2 +1,2 @@
-# DEPLOIEMENT_DOCKER
-back_end déployé avec docker
+# BACK_END
+backend (node js et express js)
